@@ -11,3 +11,8 @@
 .row.splash a {
   color: #555;
 }
+
+.not-found {
+  width: 50%;
+  margin: 30px auto;
+}
